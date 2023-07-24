@@ -1,6 +1,6 @@
 # Express-Sequilize-Swagger-API
 
-You can check the [Artilce on this](https://medium.com/@karthik.skreddy24/building-a-restful-api-with-node-js-express-js-sequelize-orm-and-swagger-for-crud-operations-c294cd9f988)
+You can check the [Article here](https://medium.com/@karthik.skreddy24/building-a-restful-api-with-node-js-express-js-sequelize-orm-and-swagger-for-crud-operations-c294cd9f988)
 
 ## Description
 
